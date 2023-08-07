@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Yoga Content Row Count
 // @namespace   RPIC
-// @match       https://yogacontentrpic.com/view/a9a0b37a-c304-44b9-b0b2-90b63d19a983
+// @match       https://yogacontentrpic.com/view/*
 // @grant       none
 // @version     1.0
 // @author      Frank Baxendale
